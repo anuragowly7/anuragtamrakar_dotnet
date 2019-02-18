@@ -1,0 +1,9 @@
+C:\core\ApexResturant.Repository\bin\Debug\netstandard2.0\ApexResturant.Repository.deps.json
+C:\core\ApexResturant.Repository\bin\Debug\netstandard2.0\ApexResturant.Repository.dll
+C:\core\ApexResturant.Repository\bin\Debug\netstandard2.0\ApexResturant.Repository.pdb
+C:\core\ApexResturant.Repository\obj\Debug\netstandard2.0\ApexResturant.Repository.csprojAssemblyReference.cache
+C:\core\ApexResturant.Repository\obj\Debug\netstandard2.0\ApexResturant.Repository.csproj.CoreCompileInputs.cache
+C:\core\ApexResturant.Repository\obj\Debug\netstandard2.0\ApexResturant.Repository.AssemblyInfoInputs.cache
+C:\core\ApexResturant.Repository\obj\Debug\netstandard2.0\ApexResturant.Repository.AssemblyInfo.cs
+C:\core\ApexResturant.Repository\obj\Debug\netstandard2.0\ApexResturant.Repository.dll
+C:\core\ApexResturant.Repository\obj\Debug\netstandard2.0\ApexResturant.Repository.pdb
